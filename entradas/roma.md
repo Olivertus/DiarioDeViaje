@@ -3,3 +3,5 @@
 La Ciudad Eterna, famosa por ser el lugar del gran Coliseo
 ## Recomendación
 Visitar el Coliseo al atardecer
+## Foto
+![](https://estoesfrancia.com/wp-content/uploads/2024/04/subir-torre-eiffel.jpg)
